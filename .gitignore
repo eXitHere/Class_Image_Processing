@@ -1,3 +1,10 @@
 ## env
 imp_w2
 env
+.vscode
+.DS_Store
+lab5_files
+.ipynb_checkpoints
+*.mp4
+*.pdf
+dataset/*
